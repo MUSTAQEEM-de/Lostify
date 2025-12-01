@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956447165562",
+    "firebase_url": "https://new-lostify-default-rtdb.firebaseio.com",
+    "project_id": "new-lostify",
+    "storage_bucket": "new-lostify.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956447165562:android:38ba653ce2ebb19658bfc3",
+        "android_client_info": {
+          "package_name": "com.lostify.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956447165562-mbrc2rg9mlb8iglb90mi8srif52vhaoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACDP1ZDmS9YyVQ3AM9YFLQNNxqn1Tcc58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956447165562-mbrc2rg9mlb8iglb90mi8srif52vhaoh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956447165562-hgng6dfpmod9gth4i7mu4b959ob3d3a1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lostify.app.testProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
